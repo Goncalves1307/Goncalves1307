@@ -8,10 +8,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year **Computer Science** student at ISMAI.  
-- 🛠️ Specialized Technician at **Worten**.  
-- 💻 Full Stack Web Developer — **JavaScript / React / Node.js**.  
-- 🤖 Currently exploring **Artificial Intelligence**.  
+- 🛠️ Specialized Technician
+- 💻 Full Stack Web Developer  
 - 🌌 I tried to deploy to production… felt like Anakin at the Jedi Temple.
 
 ---
